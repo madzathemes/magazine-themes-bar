@@ -28,7 +28,7 @@ function magazine_themes_bar() { if(!is_user_logged_in()) { ?>
     <a class="mtc-demo-5" href="http://boomnewssport.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_sport.jpg"/></div></a>
     <a class="mtc-demo-6" href="http://boomnewstravel.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_travel.jpg"/></div></a>
     <a class="mtc-demo-8" href="http://boomnewswedding.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_wedding.jpg"/></div></a>
-    <div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/moredemos.jpg"/></div>
+    <div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/moredemo.jpg"/></div>
     <!--<a class="mtc-demo-7" href="http://boomnewsanimal.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_animal.jpg"/></div></a> -->
     <!--<a class="mtc-demo-9" href="http://boomnewslearn.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_school.jpg"/></div></a> -->
     </div>

@@ -22,12 +22,12 @@ function magazine_themes_bar() { if(!is_user_logged_in()) { ?>
       </p>
     </div>
     <a class="mtc-demo-1" href="https://boomnews.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/bd-1-1.jpg"/></div></a>
-    <a class="mtc-demo-2" href="http://boomnewscraft.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_craft2.jpg"/></div></a>
-    <a class="mtc-demo-3" href="http://boomnewstech.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_tech.jpg"/></div></a>
-    <a class="mtc-demo-4" href="http://boomnewsfood.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_food.jpg"/></div></a>
-    <a class="mtc-demo-5" href="http://boomnewssport.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_sport.jpg"/></div></a>
-    <a class="mtc-demo-6" href="http://boomnewstravel.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_travel.jpg"/></div></a>
-    <a class="mtc-demo-8" href="http://boomnewswedding.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_wedding.jpg"/></div></a>
+    <a class="mtc-demo-2" href="https://boomnewscraft.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_craft2.jpg"/></div></a>
+    <a class="mtc-demo-3" href="https://boomnewstech.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_tech.jpg"/></div></a>
+    <a class="mtc-demo-4" href="https://boomnewsfood.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_food.jpg"/></div></a>
+    <a class="mtc-demo-5" href="https://boomnewssport.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_sport.jpg"/></div></a>
+    <a class="mtc-demo-6" href="https://boomnewstravel.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_travel.jpg"/></div></a>
+    <a class="mtc-demo-8" href="https://boomnewswedding.magazine-themes.net/"><div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/d_wedding.jpg"/></div></a>
     <div><img src="https://2xgsqf1rswon2n2te61220m2-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/moredemo.jpg"/></div>
     <!--<a class="mtc-demo-7" href="http://boomnewsanimal.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_animal.jpg"/></div></a> -->
     <!--<a class="mtc-demo-9" href="http://boomnewslearn.magazinethemes.staging.wpengine.com/"><div><img src="http://magazinethemes.staging.wpengine.com/wp-content/uploads/2017/01/d_school.jpg"/></div></a> -->
